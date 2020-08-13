@@ -1,11 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cnheider&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
-<table>
 
-<tr>
-<td>
 <h1>Christian Heider Nielsen</h1>
-</td>
-<tr/>
+<table>
 
 <tr>
 <td>
