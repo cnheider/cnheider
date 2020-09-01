@@ -1,7 +1,19 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=cnheider&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
-
 <h1>Christian Heider Nielsen</h1>
 <table>
+<tr>
+<td>
+    <div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cnheider&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
+</div>
+</td>
+  </tr>
+  <tr>
+<td>
+  <div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnheider&layout=compact">
+  </div>
+</td>
+</tr>
 
 <tr>
 <td>
