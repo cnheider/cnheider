@@ -27,6 +27,7 @@
 <tr>
 <td>
 <div align="center">
+main languages: 
 <img src="https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff">
 <img src="https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff">
 <img src="https://img.shields.io/badge/-C%23-green?style=flat-square&logoColor=fff">
@@ -37,6 +38,7 @@
 <tr>
 <td>
 <div align="center">
+main tools: 
 <img src="https://img.shields.io/badge/-Unity-black?style=flat-square&logoColor=fff">
 <img src="https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff">
 <img src="https://img.shields.io/badge/-TensorFlow-e5cd0c?style=flat-square&logo=TensorFlow&logoColor=fff">
